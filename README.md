@@ -1,6 +1,5 @@
 # consoleTools
-Set of tools to make console programs more friendly
-
+Conjunto de herramientas para hacer los programas de consola mas amigables.
 
 ## **¿Que es?**
 
@@ -15,6 +14,10 @@ Set of tools to make console programs more friendly
 - `45`: ![color rosado](morado.png)
 - `46`: ![color celeste](celeste.png)
 - `47`: ![color beige](beige.png)
+
+#### Los colores disponibles para el texto son:
+![colores](colores.png)
+
 ## **¿Como Funciona?**
 
 #### Se puede importar el modulo *console_tools.py* e instanciar la clase *TextDecorator*:

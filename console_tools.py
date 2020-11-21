@@ -41,7 +41,7 @@ class TextDecorator():
 
     def get_decorators(self, text, bg_color=None, text_color=None, blink=False, underline=False, bold=False, italic=False):
         """ Retorna un texto con decoradores listo para ser impreso """
-        return self._base_decorator(text, bg_color, text_color, blink, underline, bold, italic)
+        return self.__base_decorator(text, bg_color, text_color, blink, underline, bold, italic)
 
     def red(self, arg):
         """ Texto en color rojo """
