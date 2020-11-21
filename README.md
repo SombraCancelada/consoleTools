@@ -7,8 +7,14 @@ Set of tools to make console programs more friendly
 #### Es una herramienta para agregar colores y estilos al texto mostrado en pantalla por consola, para los programas de linea de comandos, haciéndolos mas amigables con el usuario.
 
 #### Los colores disponibles para el fondo del texto son: 
-- `40`: ![colorNegro!](rojo.png)
-
+- `40`: ![colorNegro!](negro.png)
+- `41`: ![color Rojo!](rojo.png)
+- `42`: ![color verde!](verde.png)
+- `43`: ![color narnja!](naranja.png)
+- `44`: ![color azul!](azul.png)
+- `45`: ![color rosado](morado.png)
+- `46`: ![color celeste](celeste.png)
+- `47`: ![color beige](beige.png)
 ## **¿Como Funciona?**
 
 #### Se puede importar el modulo *console_tools.py* e instanciar la clase *TextDecorator*:
