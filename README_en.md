@@ -2,8 +2,8 @@
 Toolkit to make console programs more user friendly.
 
 
-**[ES](https://github.com/SombraCancelada/consoleTools/README.MD)**
-**[EN](https://github.com/SombraCancelada/consoleTools/README_en.MD)**
+**[ES](/README.MD)**
+**[EN](README_en.MD)**
 
 > python -m pip install --index-url https://test.pypi.org/simple/ --no-deps console-tools-SombraCancelada
 
@@ -12,12 +12,12 @@ Toolkit to make console programs more user friendly.
 #### It's a tool to add colors and styles to the text displayed on the screen by the console, for the command line programs, making them more user friendly.
 
 #### The available colors for the text background are: 
-- `40`: ![colorBlack!](readme/black.png)
-- `41`: ![red color!](readme/red.png)
-- `42`: ![green color!](readme/green.png)
-- `43`: ![Narnja color!](readme/orange.png)
-- `44`: ![blue color!](readme/blue.png)
-- `45`: ![pink color](readme/purple.png)
+- `40`: ![colorBlack!](readme/negro.png)
+- `41`: ![red color!](readme/rojo.png)
+- `42`: ![green color!](readme/verde.png)
+- `43`: ![Narnja color!](readme/naranja.png)
+- `44`: ![blue color!](readme/azul.png)
+- `45`: ![pink color](readme/morado.png)
 - `46`: ![light blue color](readme/celeste.png)
 - `47`: ![beige color](readme/beige.png)
 
