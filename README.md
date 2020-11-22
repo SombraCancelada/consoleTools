@@ -1,8 +1,8 @@
 # consoleTools
 Conjunto de herramientas para hacer los programas de consola mas amigables.
 
-**[ES](https://github.com/SombraCancelada/consoleTools/README.MD)**
-**[EN](https://github.com/SombraCancelada/consoleTools/README_en.MD)**
+**[ES](README.md)**
+**[EN](/README_en.md)**
 
 > python -m pip install --index-url https://test.pypi.org/simple/ --no-deps console-tools-SombraCancelada
 
