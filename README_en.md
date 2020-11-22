@@ -2,8 +2,8 @@
 Toolkit to make console programs more user friendly.
 
 
-**[ES](/README.MD)**
-**[EN](README_en.MD)**
+**[ES](/README.md)**
+**[EN](README_en.md)**
 
 > python -m pip install --index-url https://test.pypi.org/simple/ --no-deps console-tools-SombraCancelada
 
