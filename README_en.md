@@ -1,10 +1,11 @@
 # consoleTools
 Toolkit to make console programs more user friendly.
 
-**[ES](README.MD)**
-**[EN](README_en.MD)**
 
-## python3. -m pip install --index-url https://test.pypi.org/simple/ --no-deps console-tools-SombraCancelada
+**[ES](https://github.com/SombraCancelada/consoleTools/README.MD)**
+**[EN](https://github.com/SombraCancelada/consoleTools/README_en.MD)**
+
+> python -m pip install --index-url https://test.pypi.org/simple/ --no-deps console-tools-SombraCancelada
 
 ## **What is it?**
 
