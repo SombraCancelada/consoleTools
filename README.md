@@ -1,22 +1,23 @@
 # consoleTools
 Conjunto de herramientas para hacer los programas de consola mas amigables.
-
+**ES![colorBlack!](README.MD)**
+**EN![colorBlack!](README_en.MD)**
 ## **¿Que es?**
 
 #### Es una herramienta para agregar colores y estilos al texto mostrado en pantalla por consola, para los programas de linea de comandos, haciéndolos mas amigables con el usuario.
 
 #### Los colores disponibles para el fondo del texto son: 
-- `40`: ![colorNegro!](negro.png)
-- `41`: ![color Rojo!](rojo.png)
-- `42`: ![color verde!](verde.png)
-- `43`: ![color narnja!](naranja.png)
-- `44`: ![color azul!](azul.png)
-- `45`: ![color rosado](morado.png)
-- `46`: ![color celeste](celeste.png)
-- `47`: ![color beige](beige.png)
+- `40`: ![colorNegro!](readme/negro.png)
+- `41`: ![color Rojo!](readme/rojo.png)
+- `42`: ![color verde!](readme/verde.png)
+- `43`: ![color narnja!](readme/naranja.png)
+- `44`: ![color azul!](readme/azul.png)
+- `45`: ![color rosado](readme/morado.png)
+- `46`: ![color celeste](readme/celeste.png)
+- `47`: ![color beige](readme/beige.png)
 
 #### Los colores disponibles para el texto son:
-![colores](colores.png)
+![colores](readme/colores.png)
 
 ## **¿Como Funciona?**
 
@@ -28,6 +29,7 @@ Conjunto de herramientas para hacer los programas de consola mas amigables.
 
 - ### `tprint(`text, bg\_color=None, text\_color=None, blink=False, underline=False, bold=False, italic=False`)`
 > Imprime por pantalla un texto con estilos.
+
     - `text`: El texto para darle estilo.
     - `bg_color`: Color de fondo del texto ( numero entre 40 y 47 ).
     - `text_color`: Color del texto (numero entre 1 y 254)
@@ -43,6 +45,7 @@ Conjunto de herramientas para hacer los programas de consola mas amigables.
 
 - ### `get_decorators(`text, bg\_color=None, text\_color=None, blink=False, underline=False, bold=False, italic=False`)`
 > Retorna un texto con estilos incluidos. 
+
     - `text`: El texto para darle estilo.
     - `bg_color`: Color de fondo del texto ( numero entre 40 y 47 ).
     - `text_color`: Color del texto
@@ -56,6 +59,7 @@ Conjunto de herramientas para hacer los programas de consola mas amigables.
 
 - ### `loader(`text, title="Loading", seconds=0.01, bg\_color=None, text\_color=None, blink=False, underline=False, bold=False, italic=False`)`
 > Imprime una animacion de carga de procentaje del 1% - 100%. 
+
     - `title`: El titulo para mostrar antes de la carga.
     - `seconds`: El tiempo que tarda cada 1% de la carga.
     - `bg_color`: Color de fondo del texto ( numero entre 40 y 47 ).
@@ -70,6 +74,7 @@ Conjunto de herramientas para hacer los programas de consola mas amigables.
 
 - ### `progress_bar(`text, title="Loading", seconds=0.01, bg\_color=None, text\_color=None, blink=False, underline=False, bold=False, italic=False`)`
 > Imprime una animacion de carga como caracteres '#'. 
+
     - `title`: El titulo para mostrar antes de la carga.
     - `seconds`: El tiempo que tarda cada 1% de la carga.
     - `bg_color`: Color de fondo del texto ( numero entre 40 y 47 ).
