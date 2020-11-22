@@ -1,7 +1,12 @@
 # consoleTools
 Conjunto de herramientas para hacer los programas de consola mas amigables.
-**ES![colorBlack!](README.MD)**
-**EN![colorBlack!](README_en.MD)**
+
+**[ES](README.MD)**
+**[EN](README_en.MD)**
+
+## python3. -m pip install --index-url https://test.pypi.org/simple/ --no-deps console-tools-SombraCancelada
+
+
 ## **¿Que es?**
 
 #### Es una herramienta para agregar colores y estilos al texto mostrado en pantalla por consola, para los programas de linea de comandos, haciéndolos mas amigables con el usuario.

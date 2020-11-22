@@ -1,0 +1,8 @@
+README.md
+setup.py
+console_tools/__init__.py
+console_tools/console_tools.py
+console_tools_SombraCancelada.egg-info/PKG-INFO
+console_tools_SombraCancelada.egg-info/SOURCES.txt
+console_tools_SombraCancelada.egg-info/dependency_links.txt
+console_tools_SombraCancelada.egg-info/top_level.txt

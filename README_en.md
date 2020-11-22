@@ -1,7 +1,11 @@
 # consoleTools
 Toolkit to make console programs more user friendly.
-**ES![colorBlack!](README.MD)**
-**EN![colorBlack!](README_en.MD)**
+
+**[ES](README.MD)**
+**[EN](README_en.MD)**
+
+## python3. -m pip install --index-url https://test.pypi.org/simple/ --no-deps console-tools-SombraCancelada
+
 ## **What is it?**
 
 #### It's a tool to add colors and styles to the text displayed on the screen by the console, for the command line programs, making them more user friendly.
