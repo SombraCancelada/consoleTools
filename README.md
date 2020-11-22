@@ -4,7 +4,7 @@ Conjunto de herramientas para hacer los programas de consola mas amigables.
 **[ES](README.MD)**
 **[EN](README_en.MD)**
 
-## python3. -m pip install --index-url https://test.pypi.org/simple/ --no-deps console-tools-SombraCancelada
+> python -m pip install --index-url https://test.pypi.org/simple/ --no-deps console-tools-SombraCancelada
 
 
 ## **¿Que es?**
